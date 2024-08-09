@@ -24,7 +24,7 @@
 
 <h3> 🔥 Streak Stats</h3>
 
-<p align="center"><img src="github-readme-streak-stats.herokuapp.com?user=nguyendangcuong201004&theme=tokyonight_duo" alt="nguyendangcuong201004" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendangcuong201004&theme=tokyonight_duo" alt="nguyendangcuong201004" /></p>
 
 <h3>💻 GitHub Profile Stats</h3>
 
