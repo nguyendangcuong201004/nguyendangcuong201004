@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Cuong
 
+Aspiring coder, constantly learning and creating
+
 <!--
 **nguyendangcuong201004/nguyendangcuong201004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
