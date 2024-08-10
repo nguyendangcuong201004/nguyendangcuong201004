@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nguyendangcuong201004](https://github.com/nguyendangcuong201004)
 
-- 💬 Ask me about **FE Development, BE Development**
-
 - 📫 How to reach me **dangcuong201004@gmail.com**
 
 - ⚡ Fun fact **Debugging is like being a detective in a crime movie where you are also the murderer.**
