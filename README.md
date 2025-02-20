@@ -17,10 +17,10 @@
 - ⚡ Fun fact **Debugging is like being a detective in a crime movie where you are also the murderer.**
 
 <br>
-
+<!--
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
-<h3> 🔥 Streak Stats</h3>
+<!--<h3> 🔥 Streak Stats</h3> 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendangcuong201004&theme=tokyonight_duo" alt="nguyendangcuong201004" /></p>
 
@@ -37,7 +37,7 @@
 	
 [![Nguyen Dang Cuong github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyendangcuong201004&theme=tokyo-night&area=true)](https://github.com/khasang12-khmt/github-readme-activity-graph)
  
-
+-->
 
 <p align="left">
 <br>
