@@ -136,20 +136,6 @@
 - Building projects that combine backend engineering with a DevOps mindset
 
 <p align="center">
-  <i>Always learning. Always building.</i>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ndcuongispace/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="30" />
-  </a>
-    
-  <a href="mailto:dangcuong201004@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="30" />
-  </a>
+  <i>Always learning. Always building. Reach me at <a href="mailto:dangcuong201004@gmail.com">dangcuong201004@gmail.com</a></i>
 </p>
 
